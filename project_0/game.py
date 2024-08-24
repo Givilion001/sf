@@ -44,5 +44,4 @@ def score_game(random_predict) -> int:
     return(score)
 #if ___name___ == "___main___":
 # RUN
-if ___name___ == "___main___":
     score_game(random_predict)
